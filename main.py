@@ -127,4 +127,6 @@ def main():
             print("Opcao invalida.")
 
 if __name__ == "__main__":
-    main()
+    from interface import App
+    app = App()
+    app.mainloop()
