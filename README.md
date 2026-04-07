@@ -18,6 +18,7 @@ O sistema carrega ao iniciar um banco de dados ficticio com pecas de hardware (G
 G33_Busca_EDA2-2026.1/
 |
 +-- main.py               # Interface grafica (Tkinter): menu lateral, telas de inventario, cadastro e busca
++-- interface.py          # Interface do projeto
 +-- inventario_loja.py    # Geracao do inventario inicial com 5.000 produtos
 +-- .gitignore            # Ignora ambiente virtual e cache do Python
 +-- README.md             # Documentacao do projeto
