@@ -126,6 +126,9 @@ A janela do sistema sera aberta automaticamente com o inventario carregado.
 
 ---
 
+## Video no youtube mostrando o projeto
+link: https://youtu.be/30jW7tPwQn8
+
 ## Integrantes
 
 <table>
